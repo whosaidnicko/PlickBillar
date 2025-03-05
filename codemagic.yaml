@@ -10,7 +10,7 @@ workflows:
         provisioning_profiles:
          - profile: kuqpeprfo
         certificates:
-         - certificate: cuniqplusgm
+         - certificate: cerpblsuz
       vars:
         BUNDLE_ID: "kuziqzmrw.plus2bils3z"
         XCODE_PROJECT: "PlickBillar.xcodeproj"
